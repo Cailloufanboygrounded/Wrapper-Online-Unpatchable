@@ -30,5 +30,3 @@ Then open cmd then cd to the folder
 then do npm install the npm start</p>
 </article>
   </div>
-
-    </div>
